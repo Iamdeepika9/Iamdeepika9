@@ -1,4 +1,4 @@
-<img src="https://novateus.com/blog/wp-content/uploads/2022/03/tech-stack.webp" height=450 width=1100/>
+<img src="https://novateus.com/blog/wp-content/uploads/2022/03/tech-stack.webp" height=350 width=1100/>
 
 <h1 align="center">Hi 👋, I'm Deepika</h1>
 
