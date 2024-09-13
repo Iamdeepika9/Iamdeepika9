@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Deepika</h1>
 
 <h3 align="center">Programmer | Developer | Designer</h3><p>
-  <p align="center">Hey there, I'm Deepika, a 3rd year Computer Science undergraduate from <a href="https://www.griet.ac.in/">Gokaraju Rangaraju Institute of Engineering and Technology</a>, Hyderabad, with a keen interest in the fields of Web Development, UI UX Design, Artificial Intelligence, Machine Learning and Data Science.</p>
+  <p align="center">Hey there, I'm Deepika, a final year Computer Science undergraduate from <a href="https://www.griet.ac.in/">Gokaraju Rangaraju Institute of Engineering and Technology</a>, Hyderabad, with a keen interest in the fields of Competitive Programming, Web Development, UI UX Design, Artificial Intelligence, Machine Learning and Data Science.</p>
   <h5 align="center">"Turning ideas into actions"</h5>
 
 <h3 align="left">Languages and Tools :</h3>
