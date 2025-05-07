@@ -13,8 +13,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamdeepika9&show_icons=true&locale=en&layout=compact" alt="iamdeepika9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamdeepika9&show_icons=true&locale=en" alt="iamdeepika9" /></p>
-<br>
-<br>
+
 📫 How to reach me **deepikaarumalla9@gmail.com**
 
 <h3 align="left">Connect with me :</h3>
