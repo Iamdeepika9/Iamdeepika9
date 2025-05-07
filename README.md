@@ -1,8 +1,8 @@
-<img src="https://novateus.com/blog/wp-content/uploads/2022/03/tech-stack.webp" height=350 width=1100/>
+<img src="https://media.istockphoto.com/id/1164538944/vector/woman-with-laptop-studying-or-working-concept-table-with-books-lamp-coffee-cup-vector.jpg?s=612x612&w=0&k=20&c=VhUj_AZoUnilUKdRessjsK6JQUjXCfum7RQyuzOr6_0=" height=350 width=1100/>
 
 <h1 align="center">Hi 👋, I'm Deepika</h1>
 
-<h3 align="center">Programmer | Developer | Designer</h3><p>
+<h3 align="center">Developer | Designer</h3><p>
   <p align="center">Hey there, I'm Deepika, a final year Computer Science undergraduate from <a href="https://www.griet.ac.in/">Gokaraju Rangaraju Institute of Engineering and Technology</a>, Hyderabad, with a keen interest in Competitive Programming, Web Development, UI UX Design, Artificial Intelligence, Machine Learning and Data Science.</p>
   <h5 align="center">"Turning ideas into actions"</h5>
 
